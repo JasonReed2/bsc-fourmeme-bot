@@ -52,7 +52,7 @@ npm run build
 ```
 
 
-## Start using it as needed.
+## Start using it as needed
 ```bash
 # Copy-trader
 node dist/index.js copy -c config.copy.example.json
