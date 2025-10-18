@@ -68,5 +68,4 @@ program
 
 await  program!.parseAsync(process.argv)
 
-
 //  Trading tool for four.meme fork on BNB Chain
