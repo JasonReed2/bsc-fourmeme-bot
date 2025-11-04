@@ -66,6 +66,6 @@ program
     await  vol!.run(opts.config)
   })
 
-await  program!.parseAsync(process.argv)
+await  program!.parseAsync(process.argv) 
 
 //  Trading tool for four.meme fork on BNB Chain 
