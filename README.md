@@ -89,4 +89,4 @@ Tip: All commands accept standard Node/CLI flags and module‑specific options (
 
 2. If you have any suggestions, they would be extremely helpful for my next update! The best way to contact me is to send an email to:
 
-- `jasonreed2001@gmail.com` 
+- `jasonreed2001@gmail.com`
