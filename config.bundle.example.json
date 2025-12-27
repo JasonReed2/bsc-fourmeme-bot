@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "kind": "buy", "token": "0xTokenAddressHere", "amountBnb": "0.02", "slippageBips": 800, "deadlineSec": 300 }
+  ]
+}
+
