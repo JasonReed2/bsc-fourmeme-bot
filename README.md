@@ -85,7 +85,7 @@ Tip: All commands accept standard Node/CLI flags and module‑specific options (
 ## Contact and Donations
 1. Based on the past month's performance, copying profitable KOLs or top traders using the “config.copy.example.json” feature has been the most profitable strategy, though I'm unsure how long this trend will last. Regardless, if this program helps you, donations and stars are what keep me motivated to keep updating it!
 
-- `0xde785F1d460435D8a6EDaEc000Abecc1E06F2BFD`
+- `0xde785F1d460435D8a6EDaEc000Abecc1E06F2BFD` 
 
 2. If you have any suggestions, they would be extremely helpful for my next update! The best way to contact me is to send an email to:
 
