@@ -1,4 +1,4 @@
-import { Command } from 'commander'
+import { Command } from 'commander' 
 import { loadEnvironment } from './lib/config.js'
 import { createLogger } from './lib/logger.js'
 import { createWalletAndProvider } from './lib/provider.js'
