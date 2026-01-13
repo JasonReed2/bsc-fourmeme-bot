@@ -1,0 +1,5 @@
+{
+  "targets": [
+    { "token": "0xTokenAddressHere", "maxBnb": "0.05", "slippageBips": 800 }
+  ]
+}
